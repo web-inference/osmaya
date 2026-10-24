@@ -2,7 +2,7 @@
 
 A 15-section parallax homepage for OSMAYA, a fictional fragrance house built around sun-picked osmanthus — *Wear the hour before nightfall.*
 
-**Live:** https://web-inference.github.io/osmaya/ · branded-bottle version: https://web-inference.github.io/osmaya/v2/
+**Live:** https://web-inference.github.io/osmaya/ (branded bottles) · original blank-label version: https://web-inference.github.io/osmaya/v1/
 
 Built with Next.js 15 (App Router, static export), TypeScript, Tailwind CSS v4, GSAP (ScrollTrigger, SplitText, ScrambleText, Flip) and Lenis.
 
