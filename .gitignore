@@ -1,0 +1,23 @@
+node_modules
+.next
+.next-prod
+.next-export
+out
+next-env.d.ts
+*.tsbuildinfo
+tests/screenshots
+# working files kept locally, not part of the site
+reference/
+screenshots/
+osmaya-build-kit.html
+osmaya-label-kit.html
+# stray media dropped into public/ (video render, screenshots)
+public/*.mp4
+public/image-*.jpg
+# planning docs (reference analysis, prompts) stay local
+BRIEF.md
+BUILD_PROMPT.md
+IMAGE_PROMPTS.md
+IMAGE_PROMPTS_V2.md
+FOLDER_TREE.txt
+image-prompts.json
